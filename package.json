@@ -1,0 +1,25 @@
+{
+  "name": "mogocrud",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riddlercodes/mogocrud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riddlercodes/mogocrud/issues"
+  },
+  "homepage": "https://github.com/riddlercodes/mogocrud#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
